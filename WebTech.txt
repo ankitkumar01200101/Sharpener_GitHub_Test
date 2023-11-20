@@ -5,3 +5,8 @@ This tutorial will teach you JavaScript from basic to advanced.
 
 
 React 
+
+
+DS:- Linear search is a simple and sequential searching algorithm. It is used to find whether a particular element is present in the array or not by traversing every element in the array. While searching in the 2D array is exactly the same but here all the cells need to be traversed In this way, any element is searched in a 2D array. 
+
+Below is the implementation for linear search in 2D arrays
